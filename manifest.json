@@ -1,0 +1,16 @@
+{
+  "name": "نظام الحضور ودرجة الانضباط",
+  "short_name": "الحضور والانضباط",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0a1f14",
+  "theme_color": "#0a1f14",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
